@@ -1,6 +1,6 @@
 #Define the two numbers
-number1 = 5
-number2 = 10
+number1 = 10
+number2 = 5
 
 #Perform the arithmetic operations
 sum = number1 + number2
