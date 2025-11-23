@@ -14,3 +14,5 @@ product = number1 * number 2
 print(f"Addition of {number1} and {number2} is {sum_result}")
 print(f"Subtraction of {number1} and {number2} is {difference_result}")
 print(f"Multiplication of {number1} and {number2} is {product_result}")
+
+python3 basic_operations.py
